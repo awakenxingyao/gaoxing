@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by 小韩说理
- * User: 韩忠康
- * Date: 2017/9/21
- * Time: 14:33
- */
+
 ?>
 @extends('Back.layout')
 @section('right')
@@ -80,7 +75,7 @@
 
         <section class="content-footer">
             <div class="text-center">
-                &copy;HelloKang，程序员
+                &copy;HelloGao，高兴太极
             </div>
         </section><!-- /.content-footer -->
 
