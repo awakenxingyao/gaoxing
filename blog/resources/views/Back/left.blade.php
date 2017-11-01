@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by 小韩说理
- * User: 韩忠康
- * Date: 2017/9/18
- * Time: 17:35
- */
+
 ?>
 <!-- Left side column. contains the logo and sidebar -->
 <aside class="left-side sidebar-offcanvas">
