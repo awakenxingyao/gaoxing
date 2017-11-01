@@ -49,7 +49,7 @@ return [
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
-            'prefix' => 'kang_',
+            'prefix' => 'gx_',
             'strict' => false,
             'engine' => 'innodb',
         ],
