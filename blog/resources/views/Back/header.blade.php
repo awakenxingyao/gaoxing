@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by 小韩说理
- * User: 韩忠康
- * Date: 2017/9/18
- * Time: 17:35
- */
+
 ?>
 <!-- header logo: style can be found in header.less -->
 <header class="header">
@@ -35,8 +30,8 @@
                         <li class="user-header bg-light-blue">
                             <img src="{{URL::asset('/Back')}}/img/avatar3.png" class="img-circle" alt="User Image" />
                             <p>
-                                {{$user->name}} - IT培训师
-                                <small>注册于2016年01月01日</small>
+                                {{$user->name}} 太极
+                                <small>注册于公元2016年01月01日</small>
                             </p>
                         </li>
                         <!-- Menu Footer-->
