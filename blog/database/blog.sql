@@ -49,4 +49,4 @@ create table gx_tag_article (
 
 
 
-insert into gx_user values (null, 'itbull', md5('1234abcd'), '泰牛(ITBull)', '20160101/avatar.png', unix_timestamp('2016-01-01'));
+insert into gx_user values (null, '太极之MVC', md5('1234abcd'), '聚农(JUNONG)', '20160101/avatar.png', unix_timestamp('2017-01-01'));
