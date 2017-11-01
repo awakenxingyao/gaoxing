@@ -102,7 +102,7 @@
 
         <section class="content-footer">
             <div class="text-center">
-                &copy;HelloKang，小韩说理
+                &copy;HelloGao，高兴
             </div>
         </section><!-- /.content-footer -->
 
